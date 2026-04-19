@@ -1,0 +1,2 @@
+# Requirements for App Mini Retiros
+# Tkinter is included with Python, no additional packages required
